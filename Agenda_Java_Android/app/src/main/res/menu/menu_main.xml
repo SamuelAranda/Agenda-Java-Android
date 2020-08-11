@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.agenda_v03.MainActivity">
+
+    <item
+        android:id="@+id/agendacompleta"
+        android:icon="?attr/homeAsUpIndicator"
+        android:title="@string/agendacompleta"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/search3"
+        android:visible="true"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:id="@+id/btnMenuNuevo"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/btnNuevo"
+        app:showAsAction="always" />
+
+
+</menu>

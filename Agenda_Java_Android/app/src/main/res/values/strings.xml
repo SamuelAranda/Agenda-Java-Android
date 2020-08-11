@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Agenda_v0.7</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="ptContacto" />
+    <string name="ptTelefono" />
+    <string name="imagen" />
+    <string name="tvNombre">Nombre:</string>
+    <string name="tvTelefono">Telefono:</string>
+    <string name="btnNuevo">Añadir</string>
+    <string name="cbHombre">Hombre</string>
+    <string name="cbMujer">Mujer</string>
+    <string name="tvApellido">Apellido</string>
+    <string name="cbTelefono_fijo">Telefono Fijo</string>
+    <string name="btBorrar">Borrar Contacto</string>
+    <string name="tvTelefonos">Telefonos</string>
+    <string name="btnVolver">Volver</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="btBorrar_contacto">Borrar Contacto</string>
+    <string name="tvCorreo">Correo:</string>
+    <string name="a_adir_correo">Añadir Correo</string>
+    <string name="a_adir_telefono">Añadir Telefono</string>
+    <string name="hint_search">main</string>
+    <string name="action_search">search</string>
+    <string name="search" />
+    <string name="Busqueda">busqueda</string>
+    <string name="search3">Search</string>
+    <string name="agendacompleta">AgendaCompleta</string>
+    <string name="Direccion">Dirección:</string>
+    <string name="calle">Calle</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="datosadicionales">DatosAdicionales</string>
+    <string name="numero">Numero</string>
+    <string name="plus">+</string>
+</resources>
